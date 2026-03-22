@@ -1,3 +1,2 @@
-# My-web-device-journey-
-
-index.html
+<img src="images/mountain-village-dusk.jpg" alt="Serene mountain village at dusk">
+[![Deploy static content to Pages](https://github.com/ndube9322-pixel/My-web-device-journey-/actions/workflows/static.yml/badge.svg?branch=main)](https://github.com/ndube9322-pixel/My-web-device-journey-/actions/workflows/static.yml)
